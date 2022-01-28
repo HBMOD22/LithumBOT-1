@@ -43,33 +43,33 @@
 
 <p align="center">
 
-  <a href="https://github.com/HBMOD22/Lithum-V4">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAchiyaCT%2FALPHA-V4&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/HBMOD22/Lithum-V4">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
     <img src="https://img.shields.io/github/forks/HBMOD22/LithumBOT-1?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/HBMOD22/Lithum-V4/stargazers">
+  <a href="https://github.com/HBMOD22/LithumBOT-1/stargazers">
     <img src="https://img.shields.io/github/stars/HBMOD22/LithumBOT-1?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/github/repo-size/HBMOD22/Lithum-V4?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
+    <img src="https://img.shields.io/github/repo-size/HBMOD22/LithumBOT-1?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/HBMOD22/Lithum-V4">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
     <img src="https://img.shields.io/github/license/HBMOD22/Lithum-V4?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/HBMOD22/Lithum-V4">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
     <img src="https://img.shields.io/github/languages/top/HBMOD22 /Lithum-V4?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/HBMOD22/Lithum-V4">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
     <img src="https://img.shields.io/static/v1?label=Author&message=Achi%20Fernando&color=purple&style=plastic">
 
   </a>
