@@ -26,17 +26,17 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTBOT/Alpha-Qr?v=1)
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HBMOD22/Lithum-V4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HBMOD22/LithumBOT-1)
 </div>
 
 ----
 
 <p align="center">
   <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/docker/pulls/HBHBMOD22/Lithum-V4?style=flat-square&label=Docker+Pulls">
+    <img src="https://img.shields.io/docker/pulls/HBHBMOD22/LithumBOT-1?style=flat-square&label=Docker+Pulls">
   </a>
-  <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/docker/image-size/HBMOD22/Lithum-V4?style=flat-square&logo=github&label=Image Size">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
+    <img src="https://img.shields.io/docker/image-size/HBMOD22/LithumBOT-1?style=flat-square&logo=github&label=Image Size">
     
   </a>
 </p>
