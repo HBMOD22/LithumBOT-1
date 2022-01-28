@@ -31,56 +31,7 @@
 
 ----
 
-<p align="center">
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/docker/pulls/AchiyaCT/ALPHA-V4?style=flat-square&label=Docker+Pulls">
-  </a>
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/docker/image-size/AchiyaCT/ALPHA-V4-1?style=flat-square&logo=github&label=Image Size">
-    
-  </a>
-</p>
 
-<p align="center">
-
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Lithum%2BOT-1&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
-  
-  </a>
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/github/forks/HBMOD22/LithumBOT-1?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/HBMOD22/LithumBOT-1/stargazers">
-    <img src="https://img.shields.io/github/stars/HBMOD22/LithumBOT-1?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/github/repo-size/HBMOD22/LithumBOT-1?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/github/license/HBMOD22/Lithum-V4?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/github/languages/top/HBMOD22 /Lithum-V4?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/HBMOD22/LithumBOT-1">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Achi%20Fernando&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://wa.me/94784506970">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Alpha%20Achi%20Fernando-purple&style=plastic">
-
-  </a>
-</p>
- 
 ```
 Lithum bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
