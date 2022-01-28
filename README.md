@@ -19,10 +19,10 @@
 </p>
 
 ----
-
 ----
-	
-----### QR CODE
+----
+----	
+### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTBOT/Alpha-Qr?v=1)
 ----
 ### Deploy Page
@@ -31,8 +31,6 @@
 
 ----
 ----
-
-
 ```
 Lithum bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
