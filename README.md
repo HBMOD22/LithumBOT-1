@@ -21,8 +21,8 @@
 ----
 
 ----
-----	
-### QR CODE
+	
+----### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTBOT/Alpha-Qr?v=1)
 ----
 ### Deploy Page
