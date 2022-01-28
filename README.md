@@ -28,7 +28,9 @@
 ### Deploy Page
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HBMOD22/LithumBOT-1)
 </div>
-
+----
+----
+----
 ----
 ----
 ```
