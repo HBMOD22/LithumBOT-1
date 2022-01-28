@@ -48,11 +48,11 @@
   
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/github/forks/HBMOD22/Lithum-V4?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/HBMOD22/LithumBOT-1?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4/stargazers">
-    <img src="https://img.shields.io/github/stars/HBMOD22/Lithum-V4?style=social">
+    <img src="https://img.shields.io/github/stars/HBMOD22/LithumBOT-1?style=social">
   </a>
 </p>
 
