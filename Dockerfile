@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://https://github.com/HBMOD22/Lithum-V4/root/V4
+RUN git clone https://https://github.com/HBMOD22/Lithum-BOT-1/root/V4
 WORKDIR /root/V4/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
