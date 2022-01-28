@@ -29,10 +29,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HBMOD22/LithumBOT-1)
 </div>
 ----
-----
-----
-----
-----
+
 ```
 Lithum bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
