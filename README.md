@@ -32,7 +32,7 @@
 ----
 
 <p align="center">
-  <a href="https://github.com/HBMOD22/Lithum-V4">
+  <a href="https://github.com/HBMOD22/LithumBOT-1">
     <img src="https://img.shields.io/docker/pulls/HBHBMOD22/Lithum-V4?style=flat-square&label=Docker+Pulls">
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4">
