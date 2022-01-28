@@ -5,7 +5,7 @@
     "keywords": ["Achi Bro lk | PG", "Lithum"],
     "stack": "container",
     "env": {
-      "ALPHA_SESSION": {
+      "Lithum_SESSION": {
             "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
             "required": true
         },
