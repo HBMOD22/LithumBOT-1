@@ -73,7 +73,7 @@ HAVE A FUN!
 									</table>
 
 ### License
-This project is protected by the `GNU General Public License v3.0.`
+This project is protected by the `GNU General Public License v1.0.`
 Do not edit copyright messages!
 
 ### Disclaimer
